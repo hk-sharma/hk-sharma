@@ -1,5 +1,5 @@
 # 💫 About Me:
-PGDM (Business Analytics) student with 3+ years of experience in consulting, client engagement, and team leadership. Passionate about turning data into actionable insights through Excel, Power BI, SQL, and Python.<br><br>Currently building projects focused on analytics, dashboards, automation, and business strategy.
+PGDM (Business Analytics) student with 3+ years of experience in consulting, client engagement, and team leadership. Passionate about turning data into actionable insights through Excel, Power BI, SQL, and Python.<br>Currently building projects focused on analytics, dashboards, automation, and business strategy.
 
 
 ## 🌐 Socials:
